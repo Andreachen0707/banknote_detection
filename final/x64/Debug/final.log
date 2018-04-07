@@ -1,0 +1,7 @@
+﻿  源.cpp
+源.cpp(140): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(198): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(266): warning C4101: “fp2”: 未引用的局部变量
+源.cpp(267): warning C4101: “n”: 未引用的局部变量
+源.cpp(333): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  final.vcxproj -> E:\ZJU\Grade 3Summer\科研family\surf\final\x64\Debug\final.exe
